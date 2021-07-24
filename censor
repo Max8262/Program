@@ -1,0 +1,10 @@
+# Program
+while True:
+	bad='fuck'
+	str=input("What do you want to do type ?"/n/n)
+	str.split
+	x=str.count(bad)
+	if x>0:
+		print(str.replace("fuck", "****"))
+	else:
+		print(str)
